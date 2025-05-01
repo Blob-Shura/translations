@@ -47,6 +47,7 @@
 			"el":"Αμμωνίτης",
 			"es":"Amonita",
 			"fi":"Ammoniitti",
+			"fr":"Amonite",
 			"he":"אמונייט",
 			"ja":"アンモナイト",
 			"ko":"암모나이트",
@@ -126,9 +127,11 @@
 			"ar":"أركيوبتركس",
 			"el":"Αρχαιοπτέρυξ",
 			"es":"Arqueoptérix",
-			"he":"ארקיאפטריקס",
+                        "fi":"Arkeopteryksi"
+			"fr":"Archaeoptéryx",
+                        "he":"ארקיאפטריקס",
 			"it":"Archeotterige",
-			"ja":"始祖鳥",
+			"ja":"始祖始祖鳥",
 			"ko":"시조새",
 			"pt-br":"Arqueoptérix",
 			"ru":"Археоптерикс",
@@ -138,7 +141,8 @@
 	},
 	"archelon":{
 		"name_t":{
-			"ja":"アーケロン"
+			"ja":"アーケロン",
+			"fr":"Archélon"
 		}
 	},
 	"argentavis":{
@@ -146,6 +150,7 @@
 			"ar":"أرجنتيفس",
 			"el":"Γιγαντογύπας",
 			"he":"ארגנטוויס",
+                        "fr":"Argentavis",
 			"ja":"アルゲンタヴィス",
 			"ko":"아르젠타비스",
 			"ru":"Аргентавис",
@@ -189,6 +194,7 @@
 	"astrodelphis":{
 		"name_t":{
 			"ar":"استروديلفس",
+			"fr":"Astrodelphis",
 			"ja":"アストロデルフィス",
 			"ru":"Астродельфис",
 			"zh":"虚空海豚",
@@ -372,6 +378,7 @@
 		"name_t":{
 			"ar":"كاربونيميس",
 			"fi":"Kilpikonna",
+			"fr":"Carbonemys",
 			"he":"קרבונמיס",
 			"ja":"カルボネミス",
 			"ko":"카르보네미스",
@@ -927,6 +934,7 @@
 			"ar":"ايكوس",
 			"el":"Άλογο",
 			"fi":"Villihevonen",
+			"fr":"Equus",
 			"hr":"Эквус",
 			"ja":"エクウス",
 			"ko":"에쿠스",
@@ -1729,7 +1737,8 @@
 		"name_t":{
 			"da":"Mikroraptor",
 			"fi":"Mikroraptori",
-			"ja":"ミクロラプトル",
+			"fr":"Microraptor",
+                        "ja":"ミクロラプトル",
 			"ko":"미크로랍토르",
 			"ru":"Микрораптор",
 			"zh":"小盗龙",
@@ -1860,6 +1869,7 @@
 	"oviraptor":{
 		"name_t":{
 			"fi":"Oviraptori",
+			"fr":"Oviraptor",
 			"ja":"オヴィラプトル",
 			"ko":"오비랍토르",
 			"ru":"Овираптор",
@@ -2095,6 +2105,7 @@
 	"quetzal":{
 		"name_t":{
 			"ar":"الكوازال",
+			"fr":"Quetzal",
 			"he":"קצאל",
 			"it":"Quetzalcoatl",
 			"ja":"ケツァルコアトルス",
